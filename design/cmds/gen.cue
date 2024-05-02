@@ -89,7 +89,7 @@ GenCommand: schema.Command & {
 		Name:    "Outdir"
 		Type:    "string"
 		Default: ""
-		Help:    "base directory to write all output u"
+		Help:    "base directory to write all output to"
 		Long:    "outdir"
 		Short:   "O"
 	}]
